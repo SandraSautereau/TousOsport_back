@@ -1,0 +1,5 @@
+%syntax-version=1.0.0
+%project=tousosport
+
+init 2022-01-20T13:24:21Z cedric-charlesia <ccharlesia@gmail.com> # Tables creation
+age_verification 2022-01-21T19:21:12Z cedric-charlesia <ccharlesia@gmail.com> # check_age DOMAIN creation
